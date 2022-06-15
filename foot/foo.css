@@ -120,8 +120,19 @@ h6{
     margin-top: 50px;
 }
 input{
+    text-decoration: none;
     border: none;
     margin-top: 20px;
     font-size: x-small;
 }
+p>a{
+  color:#344B8E ;
+}
+img:hover{
+    cursor: pointer;
+}
+i{
+    cursor: pointer;
+}
+
 
